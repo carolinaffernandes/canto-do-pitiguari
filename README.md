@@ -1,4 +1,4 @@
-# 🐦 Análise de Variação Clinal no Canto do Pitiguari (*Cyclarhis gujanensis*)
+## 🐦 Análise de Variação Clinal no Canto do Pitiguari (*Cyclarhis gujanensis*)
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-F0E040.svg?style=flat&logo=pandas&logoColor=black)
@@ -13,7 +13,7 @@ Este trabalho é desenvolvido em ambiente Google Colab, com os dados armazenados
 
 ---
 
-## 🎯 Índice
+## Índice
 
 * [Metodologia](#-metodologia)
 * [Resultados Esperados](#-resultados-esperados)
@@ -59,4 +59,8 @@ O *pipeline* de análise é dividido em quatro fases principais, executadas sequ
 ## 📊 Resultados Esperados
 
 A análise deve replicar os achados da literatura. Especificamente, o gráfico de PCA (Componente Principal 1 vs. Componente Principal 2) não deve mostrar grupos (clusters) distintos, mas sim uma nuvem de pontos contínua.
+
+
+## Referências:
+
 
