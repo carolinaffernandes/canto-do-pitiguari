@@ -3,13 +3,14 @@
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-0.10-FF5722.svg?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7-006B00.svg?style=flat&logo=xgboost&logoColor=white)
 
 Este projeto utiliza processamento de sinais e Machine Learning para analisar a variação geográfica no canto do Pitiguari (Rufous-browed Peppershrike).
 
 > O objetivo central foi validar a hipótese de que a variação vocal da espécie **não se manifesta em dialetos discretos**, mas sim como uma **variação clinal** (gradual) correlacionada com a **latitude**.
+> Esse mesmo código também pode ser aplicado a outras espécies para verificar características do canto: se apresenta variações contínuas (clinais) ou discretas (dialetos)
 
-Este trabalho foi desenvolvido em ambiente Google Colab, com os dados armazenados no Google Drive.
+
+Este trabalho foi desenvolvido para a disciplina de Modelagem Computacional em ambiente Google Colab, com os dados armazenados no Google Drive.
 
 ---
 
@@ -17,8 +18,6 @@ Este trabalho foi desenvolvido em ambiente Google Colab, com os dados armazenado
 
 * [Metodologia](#-metodologia)
 * [Resultados da Análise](#-resultados-da-análise)
-* [Como Executar o Projeto](#-como-executar-o-projeto)
-* [Estrutura do Repositório](#-estrutura-do-repositório)
 
 ---
 
@@ -82,10 +81,9 @@ Esta pontuação "Média-Baixa" confirma estatisticamente o que vimos no PCA: os
     ```bash
     !pip install librosa -q
     !pip install resampy -q
-    !pip install xgboost -q
     ```
 
-2.  **⚠️ REINICIE O AMBIENTE ⚠️**
+2.  ** REINICIE O AMBIENTE **
     * **Este é o passo mais importante.** Após a instalação terminar, vá ao menu do Colab e clique em:
     * **Ambiente de execução -> Reiniciar ambiente de execução**
     * Isso é necessário para que o `librosa` reconheça o `resampy`.
