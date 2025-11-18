@@ -83,7 +83,7 @@ Esta pontuação "Média-Baixa" confirma estatisticamente o que vimos no PCA: os
     !pip install resampy -q
     ```
 
-2.  ** REINICIE O AMBIENTE **
+2.  **Reinicie o ambiente: **
     * **Este é o passo mais importante.** Após a instalação terminar, vá ao menu do Colab e clique em:
     * **Ambiente de execução -> Reiniciar ambiente de execução**
     * Isso é necessário para que o `librosa` reconheça o `resampy`.
