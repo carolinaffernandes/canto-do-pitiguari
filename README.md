@@ -10,7 +10,7 @@ Este projeto utiliza processamento de sinais e Machine Learning para analisar a 
 > Esse mesmo código também pode ser aplicado a outras espécies para verificar características do canto: se apresenta variações contínuas (clinais) ou discretas (dialetos)
 
 
-Este trabalho foi desenvolvido para a disciplina de Modelagem Computacional em ambiente Google Colab, com os dados armazenados no Google Drive.
+Este trabalho foi desenvolvido para a disciplina de Modelos Computacionais aplicados a dados biológicos (BIZ5801) em ambiente Google Colab, com os dados armazenados no Google Drive.
 
 ---
 
@@ -71,12 +71,12 @@ A qualidade desses grupos foi medida com a **Pontuação de Silhueta (Silhouette
 
 Esta pontuação "Média-Baixa" confirma estatisticamente o que vimos no PCA: os "clusters" são fracos, artificiais e não representam dialetos reais. A variação é, de fato, um gradiente contínuo.
 
-> Ver Kmeans.pgn no repositório
+> Ver Kmeans.png no repositório
 
 ---
 
 1.  **Configuração Inicial:**
-    * Abra o notebook `analise_pitiguari.ipynb` no Google Colab.
+    * Abra o notebook `pitiguari.ipynb` no Google Colab.
     * Na primeira célula do notebook, execute os seguintes comandos para instalar as dependências necessárias:
     ```bash
     !pip install librosa -q
