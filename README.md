@@ -94,3 +94,44 @@ Esta pontuação "Média-Baixa" confirma estatisticamente o que vimos no PCA: os
 
 ---
 
+Autores: Bianca, Maria Carolina, Mariana, Raphaela, Ulisses
+
+#### Referências:
+
+>BAKER, M. C.; CUNNINGHAM, M. A. The biology of bird-song dialects. Behavioral and Brain Sciences, v. 8, n. 1, p. 85-100, 1985.
+
+>BOCACCIO, H. et al. Identification of dialects and individuals of globally threatened Yellow Cardinals using neural networks. Ecological Informatics, v. 78, p. 102372, 2023.
+
+>BREWER, D.; BONAN, A.; JUANA, E. Rufous-Browed Peppershrike (Cyclarhis gujanensis). In: HOYO, J. et al. Birds of the World. Ithaca, NY, USA: Cornell Lab of Ornithology. 2020.
+
+>FALLS, J. B. & BROOKS R. J. Individual recognition by song in White-throated Sparrows. II. Effects of location. Can. J. Zool, v. 53, p. 1412–1420. 1975.
+
+>HU, S. et al. Deep learning bird song recognition based on MFF-ScSEnet. Ecological Indicators, v. 154, p. e110844, 2023.
+
+>HUXLEY, J. S. Clines: an auxiliary method in taxonomy. Bijdragen tot de Dierkunde, v. 27, n. 1, p. 491-520, 1939.
+
+>HYMAN, J. Countersinging as a signal of aggression in a territorial songbird. Anim. Behav, v. 65, p. 1179–1185. 2003.
+
+>JÄCKEL, Denise et al. Opportunities and limitations: A comparative analysis of citizen science and expert recordings for bioacoustic research. Plos one, v. 16, n. 6, p. e0253763, 2021.
+
+>JOHNSON, L. S. & SEARCY, W. A. Female attraction to male song in house wrens (Troglodytes aedon). Behaviour, v. 133, n. 5-6, p. 357-366, 1996.
+
+>KUMAR, A. Acoustic communication in birds. Resonance, v. 8, p. 44–55. 2003.
+
+>KUS, B. E. Use of restored riparian habitat by the endangered Least Bell's Vireo (Vireo bellii pusillus). Restor. Ecol, v. 6, p. 75–82. 1998.
+
+>MARLER, P. & TAMURA, M. Song "dialects" in three populations of White-crowned Sparrows. The Condor, v. 64, n. 5, p. 368-377. 1962.
+
+>STOWELL, D. Computational bioacoustics with deep learning: a review and roadmap. PeerJ, v. 10, 10:e13152. 2022.
+
+>SKUTCH, A. F. Life histories of Central American highland birds. The Club, 1967.
+
+>TANG, Y.; LIU, C.; YUAN, X. Recognition of bird species with birdsong records using machine learning methods. Plos one, v. 19, n. 2, p. e0297988, 2024.
+
+>TUBARO, P. L. & SEGURA, E. T. Geographic Ecological and Subspecific Variation in the Song of the Rufous-Browed Peppershrike (Cyclarhis gujanensis). The Condor 1995, v. 97, n. 3, p. 792–803. 1995.
+
+>VELLINGA, W. Xeno-canto - Bird sounds from around the world. Xeno-canto Foundation for Nature Sounds. Occurrence dataset. 2025.
+
+>WANG, D. et al. Machine learning reveals cryptic dialects that explain mate choice in a songbird. Nat Commun, v. 13, p. 1630. 2022.
+
+>YANG, J.; CARSTENS, B. C.; PROVOST, K. L. Machine learning reveals that climate, geography, and cultural drift all predict bird song variation in coastal Zonotrichia leucophrys. Ornithology, v. 141, n. 2, p. ukad062, 2024.
